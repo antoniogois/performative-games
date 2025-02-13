@@ -1,0 +1,12 @@
+numpy
+scipy
+networkx
+matplotlib
+pillow
+torch
+pandas
+pyreadstat
+jupyter
+wandb
+six
+torch-geometric
