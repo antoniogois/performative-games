@@ -1,6 +1,8 @@
 # Performative Prediction on Games and Mechanism Design
 
-Repository for "[Performative Prediction on Games and Mechanism Design](https://arxiv.org/abs/2408.05146)". AISTATS 2025. Góis, A., Mofakhami, M., Santos, F. P., Gidel, G., & Lacoste-Julien, S.
+Repository for "[Performative Prediction on Games and Mechanism Design](https://arxiv.org/abs/2408.05146)".
+
+AISTATS 2025. Góis, A., Mofakhami, M., Santos, F. P., Gidel, G., & Lacoste-Julien, S.
 
 ## Instructions
 
